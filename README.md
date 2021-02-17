@@ -1,7 +1,7 @@
 ### Hi there My name is Yejin👋
 
 :computer: I'm working at Perseus Company
-
+:mortar_board: I graduated from Mirim Girl's Information Science High School.
 🌱 I’m currently learning Linux, C, system software, spring
 
 ##### Language
