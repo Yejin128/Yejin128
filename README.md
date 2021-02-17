@@ -4,7 +4,8 @@
 :mortar_board: I graduated from Mirim Girl's Information Science High School.  
 🌱 I’m currently learning Linux, C, system software, spring
 
-##### Language :mag:
+
+#### Language :mag:
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://Yejin128.github.io/)](https://Yejin128.github.io/)
 <!--
 **Yejin128/Yejin128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
