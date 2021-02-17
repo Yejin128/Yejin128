@@ -1,4 +1,8 @@
 ### Hi there My name is Yejin👋
+
+:computer: I'm working at Perseus Company
+🌱 I’m currently learning Linux, C, system software, spring
+
 ##### Language
 
 <!--
