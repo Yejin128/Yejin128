@@ -2,7 +2,7 @@
 
 :computer: I'm working at Perseus Company  
 :mortar_board: I graduated from Mirim Girl's Information Science High School.  
-🌱 I’m currently learning Linux, C, system software, spring
+🌱 I’m currently learning Linux, C, system software, embedded software, spring
 
 
 #### Language :mag:
